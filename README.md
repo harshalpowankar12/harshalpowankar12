@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalpowankar12&label=Profile%20views&color=0e75b6&style=flat" alt="harshalpowankar12" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/harshal37200536" target="blank"><img src="https://img.shields.io/twitter/follow/harshal37200536?logo=twitter&style=for-the-badge" alt="harshal37200536" /></a> </p>
 
 - 🔭 I’m currently working on **ManageIt App.**
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **harshalpowankar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zwnH8yfmuzOrRkASCTy1XyvF1Dw1MJVn/view](https://drive.google.com/file/d/1zwnH8yfmuzOrRkASCTy1XyvF1Dw1MJVn/view)
+- 📄 Know about my Resume [https://drive.google.com/file/d/1zwnH8yfmuzOrRkASCTy1XyvF1Dw1MJVn/view](https://drive.google.com/file/d/1zwnH8yfmuzOrRkASCTy1XyvF1Dw1MJVn/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
