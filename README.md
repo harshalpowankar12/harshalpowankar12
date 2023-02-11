@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android and Web-Application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalpowankar12&label=Profile%20views&color=0e75b6&style=flat" alt="harshalpowankar12" /> </p>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/harshal37200536" target="blank"><img src="https://img.shields.io/twitter/follow/harshal37200536?logo=twitter&style=for-the-badge" alt="harshal37200536" /></a> </p>
 
