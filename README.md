@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android and Web-Application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalpowankar12&label=Profile%20views&color=0e75b6&style=flat" alt="harshalpowankar12" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/harshalpowankar12/harshalpowankar12/blob/main/xero-code.gif">
+<img align="right" alt="Coding" width="400" src="[https://github.com/harshalpowankar12/harshalpowankar12/blob/main/xero-code.gif](https://github.com/harshalpowankar12/harshalpowankar12/blob/main/codinggif.gif)">
 
 
 - 🔭 I’m currently working on **ManageIt App.**
