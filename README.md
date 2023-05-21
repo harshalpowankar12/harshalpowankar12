@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/harshalpowankar12/harshalpowankar12/blob/main/BannerImage.png)]
+![MasterHead](https://github.com/harshalpowankar12/harshalpowankar12/blob/main/BannerImage.png)
 <h1 align="center">Hi 👋, I'm Harshal Powankar</h1>
 <h3 align="center">A passionate Android and Web-Application developer from India</h3>
 
