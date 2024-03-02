@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/harshalpowankar12/harshalpowankar12/blob/main/codinggif.gif">
 
 
-- 🔭 I’m currently working on **ManageIt App.**
+- 🔭 I’m currently working on **SmartCasa App.**
 
 - 🌱 I’m currently learning **Spring.**
 
